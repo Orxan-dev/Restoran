@@ -1,0 +1,51 @@
+#header{
+    padding: 15px 0;
+    border-bottom: 1px solid #ca3d26;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid white;
+    
+
+}
+.contact-info span{
+margin-right: 10px;
+}
+.book button{
+    background: #ca3d26 ;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 14px 30px;
+    border: none;
+}
+.social-icon i{
+    padding: 0 4px;
+}
+#welcome{
+    background: url(http://quomodosoft.com/html/dawat/demo/img/slider/slide_3.jpg);
+background-position: center;
+background-size: cover;
+background-repeat:no-repeat ;
+padding: 200px;
+
+}
+#welcome .qelxan {
+    padding-top: 10em;
+    text-align: center;
+}
+
+#welcome .qelxan button{
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 18px 32px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+
+
+
